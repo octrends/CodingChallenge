@@ -1,5 +1,19 @@
-import java.util.Arrays;
+/**
+* CheckTriangleType.java
+* This class is a entry point to determine the type of triangle based on the 3 input sides
+* or will it be a valid triangle. 
+*
+* @author  Sanjay Kalra
+* @version 1.0
+* @createdDate   03-18-2017
+* 
+*  Version History
+*  Date 				Version  		Developer		Comments
+*  03/18/2017			1.0    			skalra          Initial Release
+*  
+*/
 
+import java.util.Arrays;
 import com.flexion.util.Triangle;
 
 public class CheckTriangleType {
