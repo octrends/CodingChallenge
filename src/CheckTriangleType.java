@@ -26,6 +26,7 @@ public class CheckTriangleType {
 		
 		if (args!=null && args.length!=3) {
 			System.out.println("Invalid input. Please input 3 numbers to determine the triangle type.");
+			System.out.println("Usage: Please see run.bat file.");
 			return;
 		}
 		

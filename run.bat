@@ -1,0 +1,1 @@
+java -cp "./dist/codingchallenge.jar" CheckTriangleType 4 6 11

@@ -32,7 +32,7 @@ public class Triangle {
      * 03/18/2017			1.0    			skalra          Initial Release
      */  
    public Triangle (double s1, double s2, double s3) {
-	  System.out.println("side1:" + s1 + " , side2:" + s2 + " , side3:" + side3); 
+	  //System.out.println("side1:" + s1 + " , side2:" + s2 + " , side3:" + side3); 
 	  side1 = s1;
       side2 = s2;
       side3 = s3;
@@ -45,7 +45,7 @@ public class Triangle {
     * 03/18/2017			1.0    			skalra          Initial Release
     */  
    public Triangle (double[] sides) {
-	  System.out.println("side1:" + sides[0] + " , side2:" + sides[1] + " , side3:" + sides[2]); 
+	  //System.out.println("side1:" + sides[0] + " , side2:" + sides[1] + " , side3:" + sides[2]); 
 	  side1 = sides[0];
       side2 = sides[1];
       side3 = sides[2];
